@@ -1,0 +1,6 @@
+C:\Users\Junaid Ahmed\documents\visual studio 2017\Projects\starterDating\src\starterDating\bin\Debug\netcoreapp1.0\starterDating.dll
+C:\Users\Junaid Ahmed\documents\visual studio 2017\Projects\starterDating\src\starterDating\obj\Debug\netcoreapp1.0\starterDating.csprojResolveAssemblyReference.cache
+C:\Users\Junaid Ahmed\documents\visual studio 2017\Projects\starterDating\src\starterDating\obj\Debug\netcoreapp1.0\starterDating.AssemblyInfo.cs
+C:\Users\Junaid Ahmed\documents\visual studio 2017\Projects\starterDating\src\starterDating\bin\Debug\netcoreapp1.0\starterDating.pdb
+C:\Users\Junaid Ahmed\documents\visual studio 2017\Projects\starterDating\src\starterDating\obj\Debug\netcoreapp1.0\starterDating.dll
+C:\Users\Junaid Ahmed\documents\visual studio 2017\Projects\starterDating\src\starterDating\obj\Debug\netcoreapp1.0\starterDating.pdb
